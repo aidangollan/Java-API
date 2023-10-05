@@ -1,0 +1,6 @@
+app:
+  datasource:
+    jdbc-url: jdbc:postgresql://resume-api-do-user-14511927-0.b.db.ondigitalocean.com:25060/defaultdb?sslmode=require
+    username: doadmin
+    password: AVNS_--rs9mlGBQKGM7JLTJ1
+    pool-size: 10
