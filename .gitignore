@@ -31,4 +31,4 @@ build/
 
 ### VS Code ###
 .vscode/
-applications.yaml
+src/main/resources/application.yaml
